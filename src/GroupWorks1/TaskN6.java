@@ -1,3 +1,5 @@
+package GroupWorks1;
+
 public class TaskN6 {
 
     /*

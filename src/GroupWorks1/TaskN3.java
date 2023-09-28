@@ -1,3 +1,5 @@
+package GroupWorks1;
+
 public class TaskN3 {
     public static void main(String[] args) {
 

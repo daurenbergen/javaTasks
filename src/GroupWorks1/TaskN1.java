@@ -1,3 +1,5 @@
+package GroupWorks1;
+
 public class TaskN1 {
     public static void main(String[] args) {
         /*Create a program that uses an array to store a list of temperatures for

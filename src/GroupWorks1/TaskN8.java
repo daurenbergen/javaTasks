@@ -1,3 +1,5 @@
+package GroupWorks1;
+
 public class TaskN8 {
     /*Maximum and minimum number in the array?*/
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package GroupWorks1;
+
 public class TaskN7 {
     /*
     Write a Java Program to print the first 10 numbers of Fibonacci series.

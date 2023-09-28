@@ -1,3 +1,5 @@
+package GroupWorks1;
+
 public class TaskN10 {
     /*Write a program to print out duplicate elements from an Array of
     Strings?*/
